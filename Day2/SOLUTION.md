@@ -115,7 +115,7 @@ curl "http://your-alb-dns/?file=../../etc/passwd"
 ![Attack Blocked](screenshots/403-blocked.png)
 
 ### WAF Traffic Dashboard
-![Traffic Graph](screenshots/traffic-graph.png)
+![Traffic Graph](Screenshots/traffic-graph.png)
 
 ---
 
