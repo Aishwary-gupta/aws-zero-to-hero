@@ -189,7 +189,7 @@ echo "<h1>WAF Demo</h1>" | sudo tee /var/www/html/index.html
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aishwary-gupta-b734a2327)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]([https://github.com/yourusername](https://github.com/Aishwary-gupta))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]((https://github.com/Aishwary-gupta))
 
 ---
 
