@@ -100,19 +100,19 @@ curl "http://your-alb-dns/?file=../../etc/passwd"
 ## 📸 Screenshots
 
 ### EC2 Instance Running
-![EC2 Running](screenshots/ec2-running.png)
+![EC2 Running](Screenshots/ec2-running(2).png)
 
 ### Web App via ALB DNS
-![ALB Working](screenshots/alb-working.png)
+![ALB Working](Screenshots/alb-working.png)
 
 ### WAF Web ACL Created
-![WAF Created](screenshots/waf-created.png)
+![WAF Created](Screenshots/waf-created.png)
 
 ### WAF Rules with Block Action
-![WAF Rules](screenshots/waf-rules.png)
+![WAF Rules](Screenshots/waf-rules.png)
 
 ### SQL Injection Blocked (403)
-![Attack Blocked](screenshots/403-blocked.png)
+![Attack Blocked](Screenshots/403-blocked.png)
 
 ### WAF Traffic Dashboard
 ![Traffic Graph](Screenshots/traffic-graph.png)
