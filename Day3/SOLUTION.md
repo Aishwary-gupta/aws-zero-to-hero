@@ -195,29 +195,45 @@ aws iam list-attached-user-policies --user-name Alex
 
 ## 📸 Screenshots
 
-### S3 Bucket Created
-![S3 Bucket](screenshots/s3-bucket.png)
+### Task 1 — Private S3 Bucket
 
-### Block Public Access ON
-![Block Public Access](screenshots/block-public-access.png)
+#### S3 Bucket Created (Mumbai Region)
+![S3 Bucket Created](screenshots/Screenshot_2026-06-18_172830.png)
 
-### Bucket Policy Saved
-![Bucket Policy](screenshots/bucket-policy.png)
+#### Block All Public Access — ON ✅
+![Block Public Access](screenshots/Screenshot_2026-06-18_172904.png)
 
-### File Uploaded Successfully
-![File Uploaded](screenshots/file-uploaded.png)
+#### Bucket Policy Saved (Only IAM User Allowed)
+![Bucket Policy](screenshots/Screenshot_2026-06-18_172941.png)
 
-### Access Denied on Direct URL
-![Access Denied](screenshots/access-denied.png)
+#### File Uploaded Successfully Inside Private Bucket
+![File Uploaded](screenshots/Screenshot_2026-06-18_173012.png)
 
-### CLI Configured Successfully
-![CLI Config](screenshots/cli-configured.png)
+#### Access Denied on Direct URL (Bucket is Truly Private ✅)
+![Access Denied](screenshots/Screenshot_2026-06-18_172141.png)
 
-### EC2 Instance Running via CLI
-![EC2 Running](screenshots/ec2-running.png)
+---
 
-### IAM User Alex with Policy
-![Alex Policy](screenshots/alex-policy.png)
+### Task 2 — AWS CLI Setup on Windows
+
+#### AWS CLI v2 Installed Successfully
+![AWS Version](screenshots/Screenshot_2026-06-19_080024.png)
+
+#### IAM Access Key Created and Active
+![Access Key](screenshots/Screenshot_2026-06-19_080044.png)
+
+#### CLI Configured + Identity Verified via get-caller-identity
+![CLI Configured](screenshots/Screenshot_2026-06-19_080702.png)
+
+---
+
+### Task 3 — EC2 Instance Launched via CLI
+
+#### EC2 Instance Running (i-058acd2cf53012589)
+![EC2 Running](screenshots/Screenshot_2026-06-19_080957.png)
+
+#### EC2 Instance Stopped via CLI ✅
+![EC2 Stopped](screenshots/Screenshot_2026-06-19_081027.png)
 
 ---
 
